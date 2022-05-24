@@ -9,7 +9,7 @@
 <asp:ChangePassword ID="ChangePwdCtrl" runat="server">
 
 <ChangePasswordTemplate>
-Old Password:&nbsp; <asp:TextBox ID="CurrentPassword" runat="server" TextMode="Password" />
+Old Passwordd:&nbsp; <asp:TextBox ID="CurrentPassword" runat="server" TextMode="Password" />
 <br /> 
 
 New Password:&nbsp; <asp:TextBox ID="NewPassword" runat="server" TextMode="Password" />
